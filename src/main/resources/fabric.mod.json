@@ -18,6 +18,9 @@
   "entrypoints": {
     "main": [
       "com.github.theredbrain.finiteplants.FinitePlants"
+    ],
+    "client": [
+      "com.github.theredbrain.finiteplants.FinitePlantsClient"
     ]
   },
   "mixins": [
