@@ -14,6 +14,12 @@
 - maybe not instant break
 - initially finite (maybe a high tier trading item)
 
+## Cactus Roots
+
+- cacti can only be placed on this block
+- cactus feature generates this block as the first one, then normal cactus (flower)ww
+- initially finite (maybe a high tier trading item)
+
 ## Sweet Berry Bushes
 
 the "minecraft:sweet_berries" item can no longer be eaten, and it is only dropped when breaking a sweet berry bush (always 1, regardless of growth status)
@@ -33,6 +39,14 @@ harvesting a sweet berry bush now drops a custom item that takes the copies the 
 - crops might require sky access
 - crops might only grow in certain biomes
 - bone meal doesn't accelerate growth
+
+crop blocks can be right-clicked when fully-grown (possible tool requirement), to harvest them. This will not break them, but set them back to their first stage.
+their fruits are different items, which are the regular food
+their block items are quite rare, every crop block drops their block item only once (probably regardless of growth stage)
+    initial sources of crops are village farms, maybe sunken ships (rarely), the food items are more common
+    wild crops from farmers delight drop the food items and very rarely the seed
+
+
 
 ## Farmland
 
